@@ -12,3 +12,7 @@ git remote add origin https:~~~주소(한번만)
 git push origin master
 
 switch master -> mj_mj
+
+깃 에디팅 모드 진입
+수정2차
+완료했음
